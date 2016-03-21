@@ -3,6 +3,7 @@ Reveal.initialize({
   progress: true,
   history: true,
   center: true,
+  slideNumber: true,
 
   transition: 'fade', // none/fade/slide/convex/concave/zoom
   backgroundTransition: 'none', // none/fade/slide/convex/concave/zoom
